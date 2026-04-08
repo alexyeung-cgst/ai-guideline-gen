@@ -1,0 +1,5 @@
+{
+  "name": "CGST AI Guideline Generator",
+  "description": "A web app for CGST to generate AI usage guidelines for theological courses.",
+  "requestFramePermissions": []
+}
